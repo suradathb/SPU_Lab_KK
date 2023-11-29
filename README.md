@@ -1,4 +1,21 @@
 # SPU LAB KK Project - Documentation
+
+### Action Git Step Clone
+** git clone https://github.com/suradathb/SPU_Lab_KK.git <name>**
+
+### Test before building to create Docker image 
+```
+cd <projectname>/frontend
+npm install
+npm start
+
+And
+
+cd <projectname>/backend/app
+uvicorn main:app --reload
+
+```
+
  ### 1.Project Structure:
 ```
 project-root/ 
@@ -97,4 +114,6 @@ services:
 2. Navigate to the project root in the terminal.
 3. Run **docker-compose up --build to build** and start both containers.
 Access the React app at http://localhost:3000 and the FastAPI app at http://localhost:8000.
+
+
 
