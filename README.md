@@ -112,7 +112,7 @@ services:
 ### Usage:
 1. Make sure you have Docker and Docker Compose installed.
 2. Navigate to the project root in the terminal.
-3. Run **docker-compose up --build to build** and start both containers.
+3. Run **docker-compose up --build **  to build and start both containers.
 Access the React app at http://localhost:3000 and the FastAPI app at http://localhost:8000.
 
 
