@@ -1,7 +1,7 @@
 # SPU LAB KK Project - Documentation
 
 ### Action Git Step Clone
-**git clone https://github.com/suradathb/SPU_Lab_KK.git name**
+CMD : **git clone https://github.com/suradathb/SPU_Lab_KK.git name**
 
 ### Test before building to create Docker image 
 ```
