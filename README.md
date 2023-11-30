@@ -2,6 +2,8 @@
 
 ### Action Git Step Clone
 CMD : **git clone https://github.com/suradathb/SPU_Lab_KK.git name**
+CMD : **git clone https://github.com/suradathb/SPU_FontEnd.git name**
+CMD : **git clone https://github.com/suradathb/ST_Class_Rooms.git name**
 
 ### Test before building to create Docker image 
 ```

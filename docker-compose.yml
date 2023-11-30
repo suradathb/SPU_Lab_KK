@@ -2,7 +2,7 @@ version: '3'
 services:
   frontend:
     build:
-      context: ./frontend
+      context: ./fontend
     ports:
       - "3000:3000"
     depends_on:
